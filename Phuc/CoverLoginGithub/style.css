@@ -1,0 +1,111 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrap {
+    color: white;
+    width: 100%;
+    height: 800px;
+    background-color: #0d1117;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+.form0 {
+    text-align: center;
+}
+
+.form1 {
+    width: 100%;
+    height: 300px;
+    margin-top: 5%;
+    background-color: #161b22;
+    border-radius: 6px;
+    position: relative;
+}
+
+
+
+
+
+
+
+img {
+    width: 48px;
+    height: 48px;
+}
+
+.container-github>p {
+    font-size: 24px;
+    color: white;
+
+}
+
+input {
+    background-color: #0d1117;
+    border: 0.1px solid rgb(219, 219, 219, 0.2);
+    width: 100%;
+    height: 25px;
+    border-radius: 6px;
+
+}
+
+label {
+    font-size: 14px;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 20px;
+
+}
+
+.chiade {
+    display: flex;
+}
+
+form>p {
+    margin-bottom: 10px;
+}
+
+.chiade>span {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 50%;
+    text-align: right;
+    margin-right: 5px;
+    color: rgb(37, 37, 243);
+}
+
+.chiade>p {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 50%;
+}
+
+form {
+    width: 80%;
+    height: 80%;
+    margin-left: 10%;
+    position: absolute;
+    margin-top: 20px;
+
+
+}
+
+.form1-1 {
+    width: 100%;
+    height: 100%;
+
+}
+
+.container-github {
+    width: 25%;
+    height: 90vh;
+    /* background-color: rebeccapurple; */
+
+
+}
