@@ -1,0 +1,101 @@
+.Container{
+    height: 1000px;
+}
+
+.Component1{
+    width: 100%;
+    height: 5%;
+}
+
+.Component2{
+    width: 100%;
+    height: 90%;
+    display: flex;
+}
+
+.Component3{
+    width: 45%;
+    height: 100%;
+}
+
+.Component4{
+    width: 20%;
+    height: 100%;
+}
+
+.Component5{
+    width: 35%;
+    height: 100%;
+}
+
+
+.Tieude{
+    width: 70%;
+    height: 18%;
+    font-size: 30px;
+    padding-top: 50px;
+    margin-left: 30%;
+}
+
+.Tieude > h4 {
+    font-family: "Play", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+}
+
+.Tieude > p {
+    font-size: 25px;
+}
+
+.anh1{
+    width: 70%;
+    height: 80%;
+    margin-left: 30%;
+}
+
+.anh1 > img{
+    width: 85%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.anh2{
+    width: 80%;
+    height: 50%;
+    margin-top: 170%;
+}
+
+.anh2 > img{
+    width: 90%;
+    height: 80%;
+    object-fit: cover;
+}
+
+
+.anh3{
+    width: 70%;
+    height: 70%;
+    margin-top: 17%;
+}
+
+.anh3 > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.Tieude1{
+    padding-top: 15px;
+    font-size: 20px;
+    width: 70%;
+    height: 30%;
+    text-align: center;
+}
+
+
+
+
+
+
